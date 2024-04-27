@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Practica_1_Diagrama.Class;
+
+Calcular calcular = new Calcular();
+
+calcular.Practica_1_Diagrama();
