@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 1 Diagrama", "Practica 1 Diagrama\Practica 1 Diagrama.csproj", "{EC8EB48D-856A-4012-9CA2-E20475752076}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8EB48D-856A-4012-9CA2-E20475752076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8EB48D-856A-4012-9CA2-E20475752076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8EB48D-856A-4012-9CA2-E20475752076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8EB48D-856A-4012-9CA2-E20475752076}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA0D762B-AADF-4904-BC9B-31677C047CCF}
+	EndGlobalSection
+EndGlobal
