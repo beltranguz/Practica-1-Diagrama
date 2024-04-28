@@ -18,14 +18,6 @@
                 Console.WriteLine("Digite el num2: ");
                 num2 = int.Parse(Console.ReadLine());
 
-                if (num1 > num2)
-                {
-                    Console.WriteLine($"El num 1: {num1} es mayor");
-                }
-                else
-                {
-                    Console.WriteLine($"El num 2: {num2} es mayor");
-                }
                 suma = (num1 + num2);
                 producto = (num1 * num2);
 
@@ -35,7 +27,7 @@
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Ocurrio el siguiente error: {ex.Message} Calculando el num1");
+                Console.WriteLine($"Ocurrio el siguiente error: {ex.Message} Debes colocar numeros!!");
             }
 
         }
